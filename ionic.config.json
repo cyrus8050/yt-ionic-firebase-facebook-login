@@ -1,5 +1,7 @@
 {
   "name": "fbv5login2",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
